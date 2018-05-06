@@ -1,3 +1,3 @@
 # Blender-house   
 ## Bathroom   
-![bathroom](Blender-house/blob/master/pictures/bathroom.png)
+![bathroom](https://github.com/ollikor/Blender-house/blob/master/pictures/bathroom.png)
